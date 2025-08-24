@@ -11,8 +11,6 @@ A simple **.NET console chat application** that connects to [GitHub Models](http
 - 📊 **Usage statistics** (input, output, total tokens)  
 - 🎨 Beautiful console output with [Spectre.Console](https://spectreconsole.net/)  
 
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
