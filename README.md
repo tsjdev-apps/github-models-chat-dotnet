@@ -57,6 +57,12 @@ Each model has **usage limits**, so don’t expect to run production workloads.
 
 > ✅ For experimenting, comparing models, and learning — it’s a fantastic playground.  
 
+## 📖 Blog Post
+
+Read the full tutorial on Medium:
+
+👉 [Exploring GitHub Models with a .NET Console Chat Application](https://medium.com/medialesson/exploring-github-models-with-a-net-console-chat-application-348890adcb6b)
+
 ## 📚 Resources
 
 - [GitHub Models Documentation](https://docs.github.com/en/github-models)  
